@@ -1,2 +1,2 @@
 # DAPortfolio
-Data Analyst PortFolio Projects
+Data Analyst Portfolio Projects
